@@ -22,3 +22,6 @@ class FileDemo
         System.out.println("Is Hidden:"+f1.isHidden());
     }
 }
+/*
+output:
+*/
