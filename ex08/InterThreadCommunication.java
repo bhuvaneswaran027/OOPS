@@ -74,3 +74,6 @@ public class InterThreadCommunication {
         consumerThread.start();
     }
 }
+/*
+output:
+*/
