@@ -49,6 +49,12 @@ public class Shapes
         c.printArea();
     }
 }
-\*
+/*
 output:
-*\
+Enter values :
+10
+10
+Area of Rectangle is 100.0
+Area of Triangle is 50.0
+Area of Circle is 314.0
+*/
