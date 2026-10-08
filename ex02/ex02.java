@@ -134,4 +134,4 @@ Commercial
 
          Total bill = Rs 0.0
 
-*\
+*/
