@@ -49,3 +49,6 @@ public class Shapes
         c.printArea();
     }
 }
+\*
+output:
+*\
