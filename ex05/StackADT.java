@@ -92,3 +92,6 @@ class StackADT
         while(ch<5);
     }
 }
+/*
+output:
+    /*
