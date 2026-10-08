@@ -24,4 +24,18 @@ class FileDemo
 }
 /*
 output:
+Enter file name: sample.txt
+File Name: sample.txt
+Path: sample.txt
+Abs Path: C:\Users\Student\sample.txt
+Parent: null
+File Exists: Exists
+Is File: true
+Is Directory: false
+Can Read: true
+Can Write: true
+Is Absolute: false
+File Size: 128 bytes
+Is Hidden: false
+
 */
