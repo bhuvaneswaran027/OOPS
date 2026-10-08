@@ -66,3 +66,6 @@ public class ThreadProgram
         a.start();
     }
 }
+/*
+output:
+*/
