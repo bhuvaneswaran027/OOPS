@@ -53,3 +53,6 @@ public class ArrayListExample {
         }
     }
 }
+/*
+output:
+*/
