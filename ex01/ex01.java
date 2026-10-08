@@ -65,3 +65,6 @@ class Consumer
 		System.out.println("\n\t Total bill = Rs "+tbill);
 	}
 }
+/*
+output:
+*/
